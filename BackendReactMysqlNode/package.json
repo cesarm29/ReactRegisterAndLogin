@@ -1,0 +1,22 @@
+{
+  "name": "apireact",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "btoa": "^1.2.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "enigma-code": "0.0.11",
+    "express": "~4.16.0",
+    "jsonwebtoken": "^7.4.2",
+    "http-errors": "~1.6.2",
+    "morgan": "~1.9.0",
+    "mysql": "^2.16.0",
+    "pug": "2.0.0-beta11",
+    "bcrypt": "3.0.0",
+    "sequelize": "^4.38.0"
+  }
+}
